@@ -8,6 +8,7 @@ const port = 8000
 
 // listen
 app.listen(port, () => {
-  console.log(`Server listening on port ${port}`)
-});
-
+  console.log(`Server running at http://localhost:${port}`)
+}).on('error', (err) => {
+  console.error('Failed to start server:', err)
+}) 
