@@ -1,3 +1,9 @@
+# Left off at:
+
+## [Aside: Adding Data to the Database](https://scrimba.com/learn-expressjs-c062las154/~04cu)
+
+---
+
 # Learn Express.js
 
 ## Author: Tom Chant
